@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "843114929790",
+    "project_id": "medan-entertainment",
+    "storage_bucket": "medan-entertainment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843114929790:android:c550b4abdb3b1ae4d7022f",
+        "android_client_info": {
+          "package_name": "com.insurance.loan.eshramcard.sarkariyojana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843114929790-47apm7m5ju0cv0ql600t1kgsbi5quj18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzG_FH9z7RaScz5WfPM8rlFwvCOi26_tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843114929790-47apm7m5ju0cv0ql600t1kgsbi5quj18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843114929790:android:eac54469ace913c5d7022f",
+        "android_client_info": {
+          "package_name": "medanentertainment.onlineloan.crypto.twibbonmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843114929790-91afde9i40gql07sg1v6gebdt6sj6kog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "medanentertainment.onlineloan.crypto.twibbonmaker",
+            "certificate_hash": "1474070c7fa3d2f034ce7c09279774c546558491"
+          }
+        },
+        {
+          "client_id": "843114929790-nfer9rshfvk5o7um7ga8hk6tch2tf3mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "medanentertainment.onlineloan.crypto.twibbonmaker",
+            "certificate_hash": "c43ae4e5dd7231be32f82290fb3c5c317719845b"
+          }
+        },
+        {
+          "client_id": "843114929790-47apm7m5ju0cv0ql600t1kgsbi5quj18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzG_FH9z7RaScz5WfPM8rlFwvCOi26_tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843114929790-47apm7m5ju0cv0ql600t1kgsbi5quj18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843114929790:android:3973b31d971fa5a9d7022f",
+        "android_client_info": {
+          "package_name": "onlineloan.crypto.twibbonmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843114929790-dd77vkuusbo80vvrp0331ut3edtlskbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "onlineloan.crypto.twibbonmaker",
+            "certificate_hash": "1474070c7fa3d2f034ce7c09279774c546558491"
+          }
+        },
+        {
+          "client_id": "843114929790-47apm7m5ju0cv0ql600t1kgsbi5quj18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzG_FH9z7RaScz5WfPM8rlFwvCOi26_tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843114929790-47apm7m5ju0cv0ql600t1kgsbi5quj18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
